@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/KnowReinforce/static/js/main.6105797f.js",
+    "main.css": "/KnowReinforce/static/css/main.719d1521.css",
+    "main.js": "/KnowReinforce/static/js/main.5334d34f.js",
     "static/js/290.84506776.chunk.js": "/KnowReinforce/static/js/290.84506776.chunk.js",
     "static/js/755.4222fb5a.chunk.js": "/KnowReinforce/static/js/755.4222fb5a.chunk.js",
     "static/js/8.6bd8945c.chunk.js": "/KnowReinforce/static/js/8.6bd8945c.chunk.js",
@@ -15,9 +16,11 @@
     "static/js/778.b9fbfc54.chunk.js": "/KnowReinforce/static/js/778.b9fbfc54.chunk.js",
     "static/js/489.4f07f7d3.chunk.js": "/KnowReinforce/static/js/489.4f07f7d3.chunk.js",
     "index.html": "/KnowReinforce/index.html",
-    "main.6105797f.js.map": "/KnowReinforce/static/js/main.6105797f.js.map"
+    "main.719d1521.css.map": "/KnowReinforce/static/css/main.719d1521.css.map",
+    "main.5334d34f.js.map": "/KnowReinforce/static/js/main.5334d34f.js.map"
   },
   "entrypoints": [
-    "static/js/main.6105797f.js"
+    "static/css/main.719d1521.css",
+    "static/js/main.5334d34f.js"
   ]
 }
