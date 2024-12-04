@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KnowReinforce/static/css/main.719d1521.css",
-    "main.js": "/KnowReinforce/static/js/main.905b18d4.js",
+    "main.js": "/KnowReinforce/static/js/main.e48e60a7.js",
     "static/js/290.84506776.chunk.js": "/KnowReinforce/static/js/290.84506776.chunk.js",
     "static/js/755.4222fb5a.chunk.js": "/KnowReinforce/static/js/755.4222fb5a.chunk.js",
     "static/js/8.6bd8945c.chunk.js": "/KnowReinforce/static/js/8.6bd8945c.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/790.15a094bd.chunk.js": "/KnowReinforce/static/js/790.15a094bd.chunk.js",
     "static/js/583.522eb617.chunk.js": "/KnowReinforce/static/js/583.522eb617.chunk.js",
     "static/js/548.693211ad.chunk.js": "/KnowReinforce/static/js/548.693211ad.chunk.js",
-    "static/js/677.f2bd542d.chunk.js": "/KnowReinforce/static/js/677.f2bd542d.chunk.js",
+    "static/js/677.51e44994.chunk.js": "/KnowReinforce/static/js/677.51e44994.chunk.js",
     "static/js/226.15ecd8d4.chunk.js": "/KnowReinforce/static/js/226.15ecd8d4.chunk.js",
     "static/js/584.381b41c4.chunk.js": "/KnowReinforce/static/js/584.381b41c4.chunk.js",
     "static/js/995.51649b8f.chunk.js": "/KnowReinforce/static/js/995.51649b8f.chunk.js",
@@ -18,10 +18,10 @@
     "static/js/140.ca19be9a.chunk.js": "/KnowReinforce/static/js/140.ca19be9a.chunk.js",
     "index.html": "/KnowReinforce/index.html",
     "main.719d1521.css.map": "/KnowReinforce/static/css/main.719d1521.css.map",
-    "main.905b18d4.js.map": "/KnowReinforce/static/js/main.905b18d4.js.map"
+    "main.e48e60a7.js.map": "/KnowReinforce/static/js/main.e48e60a7.js.map"
   },
   "entrypoints": [
     "static/css/main.719d1521.css",
-    "static/js/main.905b18d4.js"
+    "static/js/main.e48e60a7.js"
   ]
 }
