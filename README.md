@@ -10,10 +10,10 @@
 
 ### When a question is skipped with Next question ❌ is shown before moving on to the next question or to the end, which indicates that it wasn't answered. 
 
-Current MCQ Update: 
-------------------------
-Group : 1     Parts: 12
-Group : 2     Parts: 5
-Group : 3     Parts: 1
-------------------------
+#### Current MCQ Update: 
+#### ------------------------
+#### Group : 1     Parts: 12
+#### Group : 2     Parts: 5
+#### Group : 3     Parts: 1
+#### ------------------------
 
