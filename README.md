@@ -18,39 +18,7 @@
 #### ------------------------
 
 #### Reference:
-#### ------------------------------------------------------------------------------------------
-#### Group		Part	Questions	Topic
-#### ------------------------------------------------------------------------------------------				
-####   1				
-				
-####         		1	   125	    Basics, HTML, CSS, JS
-####         		2	    70    	Basics, HTML, CSS, React, JS
-#### 		     		3	    21	    Basics, HTML, CSS
-#### 		     		4	    22	    General basics, React, JS
-#### 		     		5	    60	    General basic to intermediate, React
-#### 		     		6	    45	    General basic to intermediate, React
-#### 		     		7	    49	    Basics Material UI, Framer motion
-#### 		     		8	    48    	React basic to intermediate w/ snippets
-#### 		     		9	    94    	Basics MVC, Network protocols
-#### 		     		10	  42    	General basic to intermediate, Miscellany
-#### 		     		11	  62    	Basics date-fns, JSON
-#### 		     		12	  33    	Basics to intermediate React snippets
-				
-#### ------------------------------------------------------------------------------------------				
-				
-####    2		    1	    16    	useCycle, useHotkeys
-#### 		     		2	    29	    Basic to intermediate useCallback, async/await, Promise
-#### 		     		3	    33    	Basic to intermediate Node.js, settings
-#### 		     		4	    50	    Basic to intermediate Event loop
-#### 		     		5	    31    	Basics to intermediate for loop
-				
-#### ------------------------------------------------------------------------------------------				
-				
-####    3		    1    	59	    Basic to intermediate Security JWT, OTP
+![image](https://github.com/user-attachments/assets/26c84263-93ae-4a41-827a-c5b3414790b4)
 
-#### ------------------------------------------------------------------------------------------				
-#### ------------------------------------------------------------------------------------------				
-
-![image](https://github.com/user-attachments/assets/a5ca6f34-3e22-4beb-ab93-29f4262c8467)
 
 
