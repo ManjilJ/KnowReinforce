@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/KnowReinforce/static/css/main.d41483e7.css",
-    "main.js": "/KnowReinforce/static/js/main.8dc7e4f3.js",
-    "static/js/16.a4b71572.chunk.js": "/KnowReinforce/static/js/16.a4b71572.chunk.js",
+    "main.js": "/KnowReinforce/static/js/main.c30d78b1.js",
+    "static/js/16.374e8cc6.chunk.js": "/KnowReinforce/static/js/16.374e8cc6.chunk.js",
     "static/js/290.b62bd871.chunk.js": "/KnowReinforce/static/js/290.b62bd871.chunk.js",
     "static/js/755.1afff7ad.chunk.js": "/KnowReinforce/static/js/755.1afff7ad.chunk.js",
     "static/js/8.bcd0569b.chunk.js": "/KnowReinforce/static/js/8.bcd0569b.chunk.js",
     "static/js/593.0a885806.chunk.js": "/KnowReinforce/static/js/593.0a885806.chunk.js",
     "static/js/790.dd564135.chunk.js": "/KnowReinforce/static/js/790.dd564135.chunk.js",
     "static/js/583.c95f8597.chunk.js": "/KnowReinforce/static/js/583.c95f8597.chunk.js",
-    "static/js/548.18e90ef7.chunk.js": "/KnowReinforce/static/js/548.18e90ef7.chunk.js",
-    "static/js/677.697c69ad.chunk.js": "/KnowReinforce/static/js/677.697c69ad.chunk.js",
+    "static/js/548.78a0f983.chunk.js": "/KnowReinforce/static/js/548.78a0f983.chunk.js",
+    "static/js/677.286e8b7c.chunk.js": "/KnowReinforce/static/js/677.286e8b7c.chunk.js",
     "static/js/226.012a77c1.chunk.js": "/KnowReinforce/static/js/226.012a77c1.chunk.js",
     "static/js/584.22a4dbd8.chunk.js": "/KnowReinforce/static/js/584.22a4dbd8.chunk.js",
-    "static/js/995.e31677a3.chunk.js": "/KnowReinforce/static/js/995.e31677a3.chunk.js",
+    "static/js/995.86c36585.chunk.js": "/KnowReinforce/static/js/995.86c36585.chunk.js",
     "static/js/778.581f3e5e.chunk.js": "/KnowReinforce/static/js/778.581f3e5e.chunk.js",
     "static/js/489.88ff3f37.chunk.js": "/KnowReinforce/static/js/489.88ff3f37.chunk.js",
     "static/js/140.8f0b22f4.chunk.js": "/KnowReinforce/static/js/140.8f0b22f4.chunk.js",
@@ -24,10 +24,10 @@
     "static/js/69.c96e95ac.chunk.js": "/KnowReinforce/static/js/69.c96e95ac.chunk.js",
     "index.html": "/KnowReinforce/index.html",
     "main.d41483e7.css.map": "/KnowReinforce/static/css/main.d41483e7.css.map",
-    "main.8dc7e4f3.js.map": "/KnowReinforce/static/js/main.8dc7e4f3.js.map"
+    "main.c30d78b1.js.map": "/KnowReinforce/static/js/main.c30d78b1.js.map"
   },
   "entrypoints": [
     "static/css/main.d41483e7.css",
-    "static/js/main.8dc7e4f3.js"
+    "static/js/main.c30d78b1.js"
   ]
 }
